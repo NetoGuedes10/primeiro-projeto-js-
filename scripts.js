@@ -48,14 +48,14 @@ function convertValues(){
 
  if(currencySelect.value == "dolar") {
     Guedesplay.innerHTML = "Dólar americano"
-    currencyImage.src = ""
+    currencyImage.src = "./assets/usa.png"
 
    }
 
  
  if(currencySelect.value == "euro"){
   Guedesplay.innerHTML = "Euro"
-  currencyImage.src = "./"
+  currencyImage.src = "./assets/euro.png"
 }
 
   }

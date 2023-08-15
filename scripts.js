@@ -55,11 +55,9 @@ function convertValues(){
  
  if(currencySelect.value == "euro"){
   Guedesplay.innerHTML = "Euro"
-  currencyImage.src = "."
+  currencyImage.src = "./"
 }
 
- 
-  
   }
 
 
